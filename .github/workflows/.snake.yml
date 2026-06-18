@@ -21,7 +21,7 @@ jobs:
       - name: Breno-77
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Breno-77
           outputs: dist/snake.svg?palette=github-dark
 
 
