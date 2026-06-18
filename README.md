@@ -25,5 +25,5 @@ Pronomes ele/dele
   
 </div>
 
-<img src="https://raw.githubusercontent.com/Breno-77/Breno-77/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Breno-77/BrenoFerreira-Lima/output/snake.svg" alt="Snake animation" />
 
