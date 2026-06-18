@@ -1,10 +1,10 @@
 Ola! Sou o BrenoFerreira-Lima
 
-Atualmente trabalho como auxiliar administrativo
+💼Atualmente trabalho como auxiliar administrativo
 
-Cursando engenharia de software 
+🧑🏻‍💻Cursando engenharia de software 
 
-Pronomes ele/dele
+😁Pronomes ele/dele
 
 <picture>
   <source
