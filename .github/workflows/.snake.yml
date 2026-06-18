@@ -18,10 +18,10 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      - name: Breno-77
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Breno-77
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
 
