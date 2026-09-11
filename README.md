@@ -6,6 +6,8 @@ Ola! Sou o BrenoFerreira-Lima
 
 😁Pronomes ele/dele
 
+🧑🏻‍💻Em aprendizagem da linguagem de programaçao em C
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Breno-77&show_icons=true&theme=dark"
